@@ -45,5 +45,5 @@ Hello World! Excited to be hear I am a transitioned US Navy sailor who is lookin
 
 [Pandas](./concepts/pandasPractice.py)
 ### Week 3
-[First Flask app]
+[First Flask app](./learningFlask)
 
