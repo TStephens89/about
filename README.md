@@ -28,14 +28,22 @@ Hello World! Excited to be hear I am a transitioned US Navy sailor who is lookin
 
 ### Week 2
 [Only Positives](./concepts/onlyPositives.py)
+
 [working with classes](./concepts/classes.py)
+
 [classes challenge](./concepts/challenegeClasses.py)
+
 [FizzBuzz and other practice](./concepts/fizzbuzz.py)
+
 [Named Tuples practice](./concepts/namedTuples.py)
+
 [Named Tuples Challenege](./concepts/namedtupleChallenege.py)
+
 [Palindrome](./concepts/palindrome.py)
+
 [More Palindome](./concepts/palindrome2.py)
-[Pandas](./concepts/pandasPractice
+
+[Pandas](./concepts/pandasPractice.py)
 ### Week 3
 [First Flask app]
 
