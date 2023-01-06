@@ -13,6 +13,8 @@ Hello World! Excited to be hear I am a transitioned US Navy sailor who is lookin
 
 :construction_worker:  :construction_worker:  :construction_worker: Under Construction :construction_worker:  :construction_worker:  :construction_worker:
 
+[freemium terminal game](./challenges/project.py)
+
 
 
 ## My Training (through _nology) -
