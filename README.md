@@ -27,23 +27,24 @@ Hello World! Excited to be here I am a transitioned US Navy sailor who is lookin
 #### SCSS
 
 ### Week 2
-[Only Positives](./concepts/onlyPositives.py) - Simple python function that returns only positive numbers in an array
+[Only Positives](./concepts/onlyPositives.py) -  python function that returns only positive numbers in an array
 
-[working with classes](./concepts/classes.py) 
+[working with classes](./concepts/classes.py) - python classes and how they work
 
-[classes challenge](./concepts/challenegeClasses.py)
+[classes challenge](./concepts/challenegeClasses.py) - Python challenege with classes
 
-[FizzBuzz and other practice](./concepts/fizzbuzz.py)
+[FizzBuzz and other practice](./concepts/fizzbuzz.py) - Fizzbuzz challenege in python
 
-[Named Tuples practice](./concepts/namedTuples.py)
+[Named Tuples practice](./concepts/namedTuples.py)- using tuple in Python
 
-[Named Tuples Challenege](./concepts/namedtupleChallenege.py)
+[Named Tuples Challenege](./concepts/namedtupleChallenege.py) - Python Tuples challenege
 
-[Palindrome](./concepts/palindrome.py)
+[Palindrome](./concepts/palindrome.py) - Simple function in Python to check whether a word is a palindrome
 
-[More Palindome](./concepts/palindrome2.py)
+[More Palindome](./concepts/palindrome2.py) - Simple function in Python to check whether a word is a palindrome
 
-[Pandas](./concepts/pandasPractice.py)
+[Pandas](./concepts/pandasPractice.py) - Python and pandas to store information
+
 ### Week 3
 [First Flask app](./learningFlask)
 
