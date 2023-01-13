@@ -13,23 +13,23 @@ Hello World! Excited to be here I am a transitioned US Navy sailor who is lookin
 
 :construction_worker:  :construction_worker:  :construction_worker: Under Construction :construction_worker:  :construction_worker:  :construction_worker:
 
-[freemium terminal game](./challenges/project.py)
+[freemium terminal game](./challenges/project.py) - A terminal based game built using Python
+[ZooDex] - A Flask Api using Python, ElephantSQL, and Postman 
 
 
 
 ## My Training (through _nology) -
 
-### Week 1
+### Week 1 & Prework
 
-#### HTML 
-#### CSS 
+#### HTML & CSS 
 #### Flexbox & Grid
 #### SCSS
 
 ### Week 2
-[Only Positives](./concepts/onlyPositives.py)
+[Only Positives](./concepts/onlyPositives.py) - Simple python function that returns only positive numbers in an array
 
-[working with classes](./concepts/classes.py)
+[working with classes](./concepts/classes.py) 
 
 [classes challenge](./concepts/challenegeClasses.py)
 
