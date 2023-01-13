@@ -24,6 +24,7 @@ Hello World! Excited to be here I am a transitioned US Navy sailor who is lookin
 These links are demonstrations of using HTML, CSS, Flexbox, and SCSS
 
 [Nology webpage](https://github.com/TStephens89/about/tree/main/nology%20page#readme)
+
 [Dog webpage](https://github.com/TStephens89/about/tree/main/flex-cont)
 
 ### Week 2
