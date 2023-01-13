@@ -21,10 +21,8 @@ Hello World! Excited to be here I am a transitioned US Navy sailor who is lookin
 ## My Training (through _nology) -
 
 ### Week 1 & Prework
-
-#### HTML & CSS 
-#### Flexbox & Grid
-#### SCSS
+These links are demonstrations of using HTML, CSS, Flexbox, and SCSS
+[Nology webpage] 
 
 ### Week 2
 [Only Positives](./concepts/onlyPositives.py) -  python function that returns only positive numbers in an array
