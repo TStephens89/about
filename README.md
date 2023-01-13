@@ -14,6 +14,7 @@ Hello World! Excited to be here I am a transitioned US Navy sailor who is lookin
 :construction_worker:  :construction_worker:  :construction_worker: Under Construction :construction_worker:  :construction_worker:  :construction_worker:
 
 [freemium terminal game](./challenges/project.py) - A terminal based game built using Python
+
 [ZooDex](https://github.com/TStephens89/about/tree/main/challenges/pokemanZoo) - A Flask Api using Python, ElephantSQL, and Postman 
 
 
