@@ -46,5 +46,5 @@ Hello World! Excited to be here I am a transitioned US Navy sailor who is lookin
 [Pandas](./concepts/pandasPractice.py) - Python and pandas to store information
 
 ### Week 3
-[First Flask app](./learningFlask)
+[First Flask app](./learningFlask) - Flask Application used for understanding routes
 
