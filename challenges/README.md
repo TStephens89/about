@@ -32,4 +32,3 @@ The goal for this application was to make an application that uses get and post 
 - requests
 - pytest-html
 
-## 
